@@ -1,0 +1,4 @@
+debugpy
+pydevd-odoo
+openpyxl
+mysql-connector-python

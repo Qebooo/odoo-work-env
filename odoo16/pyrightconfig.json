@@ -1,0 +1,8 @@
+{
+    "stubPath": "C:/Users/user/Desktop/odoo-work-env/odoo-stubs16",
+    "extraPaths": [
+        "C:/Users/user/Desktop/odoo-work-env/odoo16-source",
+        "C:/Users/user/Desktop/odoo-work-env/odoo16-source/addons",  
+        "C:/Users/user/Desktop/odoo-work-env/odoo16/custom_addon",  
+    ]
+}
